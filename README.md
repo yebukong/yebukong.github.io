@@ -1,2 +1,0 @@
-# yebukong.github.io
-blog
