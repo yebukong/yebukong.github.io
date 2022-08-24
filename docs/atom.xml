@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-08-24T18:22:09.312Z</updated>
+  <updated>2022-08-24T18:38:28.918Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="http://example.com/2022/08/25/hello-world/"/>
     <id>http://example.com/2022/08/25/hello-world/</id>
-    <published>2022-08-24T18:22:09.312Z</published>
-    <updated>2022-08-24T18:22:09.312Z</updated>
+    <published>2022-08-24T18:38:28.918Z</published>
+    <updated>2022-08-24T18:38:28.918Z</updated>
     
     
       
@@ -42,7 +42,7 @@
     <link href="http://example.com/2022/06/06/yuque/Java%E7%B1%BB%E5%8A%A0%E8%BD%BD/"/>
     <id>http://example.com/2022/06/06/yuque/Java%E7%B1%BB%E5%8A%A0%E8%BD%BD/</id>
     <published>2022-06-05T16:26:27.000Z</published>
-    <updated>2022-08-24T18:22:38.564Z</updated>
+    <updated>2022-08-24T18:38:58.874Z</updated>
     
     
       
